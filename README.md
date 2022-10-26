@@ -4,7 +4,7 @@ For [project_02](https://github.com/mikeizbicki/cmc-csci040/tree/2022fall/projec
 ## US and Indian GDP figures from 1960 to 2021
 ![USA and India GDP figures from 1960-2021](USandIndiaGDPfigs.png)
 
-This line graph plots the GDP figures, in billions of dollars, of both the United States and India from 1960 to 2021. It shows an increase in the GDP of both the US and India, with slight downturns during the two most recent recessions for the United States and several in recent years for India. The US is also shown to have a larger GDP—almost seven times the size—to than India. The JSON datasets for both countries were retrieved from [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets#gdp).
+This line graph plots the GDP figures, in billions of dollars, of both the United States and India from 1960 to 2021. It shows an increase in the GDP of both the US and India, with slight downturns during the two most recent recessions for the United States and several in recent years for India. The US is also shown to have a larger GDP—by almost seven times the size—than India. The JSON datasets for both countries were retrieved from [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets#gdp).
 
 ## Number of Nobel Laureates Born in the Present Day Borders of Founding EU Countries from 1901-2016
 ![Nobel Laureates from Founding EU Countries](nobellaureatesEUfounders.png)
