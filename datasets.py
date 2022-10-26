@@ -2,33 +2,7 @@ import json
 import matplotlib.pyplot as plt
 
 # JSON time
-'''
-# first try, hated this
-belgium = 'BE'
-france = 'FR'
-germany = 'DE'
-italy = 'IT'
-luxembourg = 'LU'
-netherlands = 'NL'
-
-be =[]
-fr = []
-de = []
-it = []
-lu = []
-nl = []
-laureates = []
-
-with open('project_02/laureate.json', encoding = 'utf-8') as f:
-    text = f.read()
-    laureates += json.loads(text)
-    actuallaureates = laureates[0]
-print(laureates)
-print(len(actuallaureates))
-'''
-
 igdpfigs = []
-# JSON second try, but with India GDP
 paths = ['project_02/indiagdp.json']
 for path in paths:
     with open(path, encoding = 'ascii') as f:
