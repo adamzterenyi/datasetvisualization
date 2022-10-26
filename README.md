@@ -13,7 +13,9 @@ This bar graph depicts the number of Nobel laureates, of any categorary, who wer
 
 ## Bibliography
 **Graph One**
+
 [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets#gdp)
 
 **Graph Two**
+
 Kuzmenko, Maryna, 2016, "Nobel Prize - Dataset with Information about Prizes, Laureates and Countries", https://doi.org/10.7910/DVN/AGAFAQ, Harvard Dataverse, V1, UNF:6:McdDh+ldUTGgZDs5XVOQUA== [fileUNF]
